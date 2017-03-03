@@ -13,7 +13,7 @@ python autocomplete-spelunker.py [keyword] [char depth]
 ## Output
 
 ```
-combs$ python autocomplete-grabber.py dc 0
+combs$ python autocomplete-spelunker.py dc 0
 Running with keyword dc%20 and char depth 0 ... Run with params [keyword] [chardepth] to change
 dc auto show
 dc craigslist
